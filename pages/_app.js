@@ -23,9 +23,9 @@ export default function App({ Component, pageProps }) {
 		}
 	}, [loading]);
 
-	const title = "Portfolio | Satyam Shorrf";
+	const title = "Portfolio | Rajesh Kumar ";
 	const description =
-		"Hello! I'm Satyam Shorrf, a passionate web developer and problem solver. Welcome to my portfolio";
+		"Hello! I'm Rajesh Kumar, a passionate web developer and problem solver. Welcome to my portfolio";
 	const avatar =
 		"public/assets/avatar-meta.png";
 	const url = "https://3-d-portfolio-hbuqr3wbo-satyam-shorrfs-projects.vercel.app/";
